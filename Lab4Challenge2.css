@@ -1,0 +1,39 @@
+.purplebox{
+  border:purple 3px dotted;
+  margin:10px;
+}
+
+.blacktext{
+  padding-top:250px;
+  padding-bottom:10px;
+  text-align:center;
+}
+
+.smalltext{
+  text-align:center;
+  font-size:10px;
+  font-weight:bold;
+  color:green;
+}
+
+.orangetext{
+  color:orange;
+  font-size:35px;
+}
+
+.superscript{
+  color:red;
+  vertical-align:super;
+}
+
+.purpletext{
+  color:purple;
+  font-size:10px;
+  text-align:right;
+}
+
+.yellowUpper{
+  color:yellow;
+  text-transform:uppercase;
+  font-style:italic;
+}
