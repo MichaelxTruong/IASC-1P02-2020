@@ -1,0 +1,25 @@
+body{
+  background-color:white;
+}
+
+.greenbox{
+  background-color:green;
+}
+
+.prettybox{
+  border:black 4px dotted;
+  margin:15px;
+  padding:10px;
+}
+
+.redtext{
+  color:red;
+}
+
+.darkgreentext{
+  color:darkgreen;
+}
+
+.purpletext{
+  color:purple;
+}
