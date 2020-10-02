@@ -1,0 +1,11 @@
+body{background-color:blue;}
+
+.bluebox{border:black 3px solid;
+  margin:10%;}
+
+.redtext{color:red;
+  border:green 1px dashed;
+  margin:10px;}
+
+.photo{border:white 1px dashed;
+  padding:15px}
