@@ -16,8 +16,8 @@ body{
 	width:250px;
 	height:240px;
 	background-color: blue;
-	position:relative;
-	left:300px;
+	position:absolute;
+	left:20%;
 	padding-top:10px;
 }
 
@@ -26,8 +26,8 @@ body{
 	width:250px;
 	height:240px;
 	background-color:red;
-	position:relative;
-	right:275px;
+	position:absolute;
+	right:19%;
 	padding-top:10px;
 }
 
@@ -37,5 +37,6 @@ body{
 	height:250px;
 	background:yellow;
 	position:relative;
+	top:250px;
 	margin:0 auto;
 }
