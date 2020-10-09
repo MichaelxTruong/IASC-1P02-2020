@@ -16,8 +16,9 @@ body{
 	width:250px;
 	height:240px;
 	background-color: blue;
-	margin-left:20%;
-	padding-top: 10px;
+	position:absolute;
+	left:300px;
+	padding-top:10px;
 }
 
 #Content2{
@@ -25,13 +26,17 @@ body{
 	width:250px;
 	height:240px;
 	background-color:red;
-	margin-right:20%;
+	position:absolute;
+	right:275px;
 	padding-top:10px;
 }
+
 #Content3{
 	clear:both;
 	width:250px;
 	height:250px;
 	background:yellow;
+	position:relative;
+	top:250px;
 	margin:0 auto;
 }
