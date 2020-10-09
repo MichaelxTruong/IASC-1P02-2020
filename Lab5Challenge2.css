@@ -1,0 +1,46 @@
+body{
+	color:black;
+	font-weight:bold;
+	background-color:green;
+}
+
+#wrapper{
+	width:750px;
+	margin:0 auto;
+	background-color:white;
+}
+
+#header{
+	height:75px;
+	text-align:center;
+	background-color:red;
+}
+
+#leftnav{
+	float:left;
+	width:200px;
+	height:50px;
+	background-color:pink;
+	padding-top:10px;
+}
+
+#rightnav{
+	float:right;
+	width:550px;
+	height:50px;
+	background-color:orange;
+	padding-top:10px;
+}
+
+#maincontent{
+	clear:both;
+	width:750px;
+	height:500px;
+	background-color:blue;
+}
+
+#footer{
+	height:50px;
+	clear:both;
+	background-color:yellow;
+}
