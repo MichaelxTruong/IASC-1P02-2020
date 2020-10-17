@@ -1,5 +1,5 @@
 body{
-  background-color:purple;
+  background-color:darkgreen;
 }
 
 h1,h2{
@@ -9,7 +9,7 @@ h1,h2{
 .nesting{font-size: 18px;} ol{font-weight:bold;}
 
 .heading1{
-  color: green;
+  color: violet;
   font-size: 20px;
   font-weight: bold;
 }
