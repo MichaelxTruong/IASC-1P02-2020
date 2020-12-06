@@ -1,0 +1,223 @@
+#wrapper{
+  width: 100%;
+  height: 1182px;
+  background-color: #0C1E42;
+  margin: 0 auto;
+  font-family: arial;
+}
+
+#header{
+  width: 98.55%;
+  height: 160px;
+  background-color: #3F7CEF;
+  text-align: center;
+  color: White;
+  float: left;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.companylogo{
+   width: 206px;
+   height: 157px;
+   position: relative;
+   margin: 0 auto;
+   margin-left: 147px;
+}
+
+.social{
+   width: 40px;
+   height: 40px;
+   background-color: #3F7CEF;
+   position: relative;
+   float: right;
+   margin-top: 100px;
+   margin-right: 15px;
+}
+
+#navigation{
+   width: 98.55%;
+   height: 75px;
+   background-color: #3F7CEF;
+   text-align: center;
+   float: left;
+   margin-right: 10px;
+   margin-top: 1px;
+   margin-left: 10px;
+}
+
+/*This is the css for the link boxes*/
+.link{
+   width: 150px;
+   height: 40px;
+   background-color: #0B1C3C;
+   float: left;
+   position: relative;
+   margin-left: 175px;
+   margin-top: 10px;
+}
+/*Link hovering was learned through
+https://www.w3schools.com/cssref/tryit.asp?filename=trycss_sel_hover*/
+.link:hover{
+  background-color: #EE434F;
+}
+
+.link a{
+  display:block;
+  padding-top: 8px;
+  padding-bottom: 9px;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.information{
+  width: 98.55%;
+  height: 60px;
+  background-color: yellow;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  float: left;
+  margin-right: 10px;
+  margin-top: 1px;
+  margin-left: 10px;
+}
+#contentbox{
+  width: 98.55%;
+  height:740px;
+  background-color: #3F7CEF;
+  clear: both;
+  margin: 0 auto;
+}
+
+#content{
+   width:98%;
+   height: 725px;
+   background-color: #FFFFFF;
+   text-align: center;
+   clear: both;
+   margin: 0 auto;
+   position: relative;
+}
+
+/*Contact Form Box was learned through https://www.codebrainer.com/blog/contact-form-in-javascript*/
+#form{
+  position:relative;
+  width: 425px;
+  height:430px;
+  float: left;
+  text-align: left;
+  background-color:#3F7CEF;
+  margin-left: 50px;
+  margin-top: 100px;
+  padding: 10px;
+  font-family: arial
+}
+
+h2{
+  font-size:30px;
+  color:#FEF277;
+}
+
+#email{
+  width:400px;
+  height:3px;
+  position:relative;
+  bottom: 20px;
+  float: left;
+  clear: both;
+  padding:10px 10px 10px 10px;
+  margin:auto 0;
+}
+
+#subject{
+  width:400px;
+  height:3px;
+  position:relative;
+  float: left;
+  clear: both;
+  padding:10px 10px 10px 10px;
+  margin:auto 0;
+}
+
+#message{
+  width:400px;
+  height:200px;
+  position:relative;
+  top:20px;
+  float: left;
+  clear: both;
+  padding:10px 10px 10px 10px;
+  margin:auto 0;
+}
+
+button{
+  position:relative;
+  float: left;
+  margin:0 auto;
+  clear: both;
+  top:25px;
+  padding:10px;
+}
+
+#paragraph{
+  width: 800px;
+  height:200px;
+  font-size: 20px;
+  float:left;
+  margin-left: 50px;
+  margin-top:100px;
+  position: relative;
+  text-align: left;
+  background-color: #FEF277;
+  padding: 10px;
+}
+
+#radio{
+  width: 300px;
+  height:180px;
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+  float: left;
+  text-align: left;
+  margin-left: 50px;
+  margin-top: 20px;
+  background-color: #EE434F;
+  padding: 15px;
+}
+
+#option1, #option2, #option3, #option4{
+  width: 20px;
+  height: 20px;
+  position: relative;
+  float: right;
+}
+
+#paragraph2{
+  width: 450px;
+  height:180px;
+  font-size: 20px;
+  float: left;
+  text-align: left;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+ #footer{
+  width: 98.55%;
+  height: 105px;
+  background-color: #3F7CEF;
+  font-size: 12px;
+  text-align: center;
+  float: left;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+  clear: both;
+  color:white;
+ }
